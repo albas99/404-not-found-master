@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://imgur.com/a/lFf4IcU)
+![screenshot](https://imgur.com/WMXZOiG)
 
 A simple responsive 404 page built using HTML and CSS using mainly flexbox and grid
 
