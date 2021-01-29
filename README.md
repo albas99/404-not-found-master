@@ -36,11 +36,11 @@
 
 ## Overview
 
-![screenshot](https://imgur.com/WMXZOiG)
+![screenshot](https://github.com/albas99/404-not-found-master/blob/master/Screen%20Shot%202021-01-29%20at%2010.50.23.png)
 
 A simple responsive 404 page built using HTML and CSS using mainly flexbox and grid
 
-- You can see the demo ![here](https://keen-kirch-58a2e0.netlify.app/)
+- You can see the demo [here](https://keen-kirch-58a2e0.netlify.app/)
 - This first turned out to be a little bit confusing at first but as I started going deeper I started understanding the concept and how to go about it.
 - This helped improved my CSS skills a bit. My main issue was responsive development and this helped a bit understand more about how it works
 - If you're a beginner, you need to checkout and practice these challenges as they'll help improve your web development skills a lot.
@@ -69,6 +69,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://links.albasfaisal.com/)
-- GitHub [@your-username](https://github.com/albas99)
-- Twitter [@your-twitter](https://twitter.com/Albas_Phaysal)
+- Website [albasfaisal](https://links.albasfaisal.com/)
+- GitHub [@albas99](https://github.com/albas99)
+- Twitter [@albas phaysal](https://twitter.com/Albas_Phaysal)
