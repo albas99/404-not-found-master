@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/albas99/404-not-found-master/blob/master/Screen%20Shot%202021-01-29%20at%2010.50.23.png)
+![screenshot](https://github.com/albas99/404-not-found-master/blob/master/Screen%20Shot%202021-01-29%20at%2010.50.23.png\)
 
 A simple responsive 404 page built using HTML and CSS using mainly flexbox and grid
 
